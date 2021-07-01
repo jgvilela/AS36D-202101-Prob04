@@ -1,0 +1,23 @@
+{
+  "name": "as36d-202101-prob04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgvilela/AS36D-202101-Prob04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgvilela/AS36D-202101-Prob04/issues"
+  },
+  "homepage": "https://github.com/jgvilela/AS36D-202101-Prob04#readme",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jest-matcher-deep-close-to": "^2.0.1"
+  }
+}
